@@ -219,7 +219,7 @@ README.md: This file, providing an overview of the project.
 requirements.txt: Lists the dependencies required to run the project.
 
 ## Authors
-Xhengxue Zhao (xx) Seda Uyanik (seda.uyanik@liverpool.ac.uk)
+Zhengxue Zhao (xx) and Seda Uyanik (seda.uyanik@liverpool.ac.uk)
 
 ## License
 Distributed under the Unlicense License. See LICENSE.txt for more information.
