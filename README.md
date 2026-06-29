@@ -213,3 +213,13 @@ Generated images, trained models, and demonstration videos are not stored in thi
 An earlier RG2-based socket-control implementation was used during development.
 
 This legacy RG2 code is not included in this repository because the final workflow uses the UR5e arm with a Robotiq gripper and the `UR_tasks_seda_camera.py` / `UR_Functions.py` control structure.
+
+## Other Files
+README.md: This file, providing an overview of the project.
+requirements.txt: Lists the dependencies required to run the project.
+
+## Authors
+Xhengxue Zhao (xx) Seda Uyanik (seda.uyanik@liverpool.ac.uk)
+
+## License
+Distributed under the Unlicense License. See LICENSE.txt for more information.
