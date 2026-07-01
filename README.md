@@ -35,7 +35,7 @@ scheduler.py
 
 `schedule/` contains the programmed acquisition times.
 
-Captured images are saved to the `image/` folder. there is an image in the folder for demonstration.
+Captured images are saved to the `image/` folder. There is an image in the folder for demonstration.
 
 ## Main Scripts
 
