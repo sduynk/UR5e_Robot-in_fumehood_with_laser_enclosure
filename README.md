@@ -25,10 +25,11 @@ The code was used for the thesis-specific robotic image-acquisition workflow.
 The main workflow is:
 
 ```text
-scheduler.py
+→ scheduler.py
 → Execution_rack.py
 → UR_tasks_seda_camera.py
 → UR_Functions.py
+→ utils.py
 ```
 
 `rack/` contains the sample information for each rack.
