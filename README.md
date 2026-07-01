@@ -171,6 +171,11 @@ Multiple racks can also be processed:
 ```bash
 python3 Execution_rack.py --rack_number 1 --rack_number 2 --loops 1
 ```
+Multiple racks with 2 cycle can also be processed:
+
+```bash
+python3 Execution_rack.py --rack_number 1 --rack_number 2 --loops 2
+```
 
 ### Run the scheduled workflow
 
