@@ -212,7 +212,7 @@ The calibrated robot positions are specific to the experimental setup used in th
 
 The positions may need to be recalibrated before the code is used with another UR5e robot, rack geometry, camera position, or imaging enclosure.
 
-Generated images, trained models, and demonstration videos are not stored in this repository. These files are archived separately through the associated Zenodo record.
+Generated images, trained models, and demonstration videos are not stored in this repository. These files are archived separately through the associated Zenodo record. https://zenodo.org/records/21040022
 
 ## Legacy Code
 
